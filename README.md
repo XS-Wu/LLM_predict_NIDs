@@ -65,7 +65,7 @@ This repository contains two core scripts for infectious disease time-series for
 ## Citation
 
 If you use this code, please cite:  
-> Xinsheng Wu, et al. "Large language models as versatile predictive engines for notifiable infectious diseases in China." 2025. (unpublished)
+> Xinsheng Wu, Jinyuan Wu, Zhongwen Wang, Ye Yao, Huachun Zou. "Large language models as versatile predictive engines for notifiable infectious diseases in China." 2025. (unpublished)
 
 ## License
 
