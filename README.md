@@ -11,9 +11,6 @@ This repository contains two core scripts for infectious disease time-series for
 .
 ├── llm_nid_core.py               # Python script: LoRA-tuned Qwen-2.5-3B
 ├── forecast_comparison_core.R    # R script: multi-model benchmarking
-├── data/                         # Data files
-│   ├── china_nid_2009_2025.xlsx  # Full dataset (Excel)
-│   └── sample.xlsx               # Sample dataset for testing
 ├── requirements.txt              # Python dependencies
 ├── environment.yml               # Conda environment (optional)
 ├── CONTRIBUTING.md               # Contribution guidelines
