@@ -3,7 +3,7 @@
 This repository contains four core scripts for infectious disease time-series forecasting:
 
 - **Python**: `LLM_core.ipynb` `zero_shot_core.ipynb` `interpretability_core.ipynb`
-- **R**: `forecast_comparison_core.R` — Comparison of ARIMA, GARCH, ETS, XGBoost, LSTM, and LLM.
+- **R**: `forecast_comparison_core.R`
 
 ## Repository Structure
 
